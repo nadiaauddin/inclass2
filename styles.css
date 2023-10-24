@@ -1,0 +1,35 @@
+
+body{
+	display: block;
+	width:100vw;
+}
+img {
+	visibility: visible;
+}
+.orange-container {
+	width:100%;
+  border: 2px solid orange;
+  padding: 2px;
+  margin: 2px;
+  text-align: center;
+}
+.flex-container {
+ width:100%;
+  padding: 2px;
+  text-align: center;
+	padding-left:40px;
+	padding-right:40px;
+	display: flex;
+	justify-content: space-evenly;
+}
+#wholeimages {
+	border: 2px solid orange;
+	display:flex;
+	min-height: 350px;
+	
+}
+
+button {
+	padding-left:15px;
+	padding-right:15px;
+}
